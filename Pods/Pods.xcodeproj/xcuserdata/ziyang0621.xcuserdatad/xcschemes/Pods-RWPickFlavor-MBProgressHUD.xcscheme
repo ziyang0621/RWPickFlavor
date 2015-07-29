@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A9B6A8108150487830D277AF"
+               BlueprintIdentifier = "655F6AE88858EDF87DE7CB52"
                BuildableName = "MBProgressHUD.framework"
                BlueprintName = "Pods-RWPickFlavor-MBProgressHUD"
                ReferencedContainer = "container:Pods.xcodeproj">
